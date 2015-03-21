@@ -1,0 +1,14 @@
+root@localhost:~# apache2 -v
+Server version: Apache/2.4.7 (Ubuntu)
+Server built:   Jul 22 2014 14:36:38
+root@localhost:~# ps aux | grep apache
+root      1443  0.0  1.2 440248 13112 ?        Ss   mar16   1:56 /usr/sbin/apache2 -k start
+www-data  1459  0.0  0.7 440528  7816 ?        S    mar16   0:02 /usr/sbin/apache2 -k start
+www-data  1460  0.0  0.7 440528  7788 ?        S    mar16   0:02 /usr/sbin/apache2 -k start
+www-data  1461  0.0  0.7 440528  8332 ?        S    mar16   0:04 /usr/sbin/apache2 -k start
+www-data  1462  0.0  0.7 440536  8068 ?        S    mar16   0:04 /usr/sbin/apache2 -k start
+www-data  1463  0.0  0.8 440528  8392 ?        S    mar16   0:03 /usr/sbin/apache2 -k start
+www-data  2034  0.0  0.8 440528  8436 ?        S    mar17   0:02 /usr/sbin/apache2 -k start
+www-data  3232  0.0  0.7 440592  8032 ?        S    mar17   0:02 /usr/sbin/apache2 -k start
+www-data  5469  0.0  0.7 440464  7656 ?        S    mar18   0:02 /usr/sbin/apache2 -k start
+root     11427  0.0  0.0  10896  1024 pts/0    S+   23:02   0:00 grep --color=auto apache
