@@ -1,7 +1,6 @@
 ## 0 - Configuracion de red de las máquinas :
-Máquina 1:
+
 ![imagen0_1](https://github.com/bilalgr/swap1415/blob/master/practica2/Capture0_1.PNG)
-Máuina 2:
 ![imagen0_2](https://github.com/bilalgr/swap1415/blob/master/practica2/Capture0_2.PNG)
 
 ## 1- probar el funcionamiento de la copia de archivos por ssh: 
