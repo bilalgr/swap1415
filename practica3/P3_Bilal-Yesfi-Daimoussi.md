@@ -11,7 +11,7 @@ Balanceador Haproxy: 192.168.32.133
 ## 1- Instalación y configuración de Nginx como balanceador de carga: 
 ### 1-1 Instalación de Nginx:
 
-![imagen4_0]((https://github.com/bilalgr/swap1415/blob/master/practica3/Capture4_0.PNG))
+![imagen4_0](https://github.com/bilalgr/swap1415/blob/master/practica3/Capture4_0.PNG)
 
 ### 1-2 Configuración de Nginx como balanceador de carga usando algoritmo de round-robin:
 
