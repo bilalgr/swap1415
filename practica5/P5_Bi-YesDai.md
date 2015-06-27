@@ -1,4 +1,4 @@
-# Práctica 3
+# Práctica 5
 ## 0 - Configuracion de red de las máquinas :
 Máquina 1:  192.168.32.128
 
